@@ -1,0 +1,216 @@
+﻿diseaseId,name,therapeuticAreas,searchTerms
+MONDO_0009979,reticular dystrophy of the retinal pigment epithelium,"['MONDO_0002025', 'OTAR_0000018', 'MONDO_0024458', 'EFO_0000618']",reticular dystroph; retinal pigment epithelium; RPE
+MONDO_0018998,Leber congenital amaurosis,"['MONDO_0002025', 'OTAR_0000018', 'EFO_0000618', 'MONDO_0024458']",Leber; congenital amauros; Leber congenital amauros; LCA
+MONDO_0005090,schizophrenia,"['MONDO_0002025', 'EFO_0000618']",schizophren
+EFO_1000017,autosomal recessive disease,['OTAR_0000018'],autosomal recessiv; recessive disease; AR
+HP_0012115,Hepatitis,['EFO_0000651'],hepatit
+EFO_0005597,methylmalonic aciduria and homocystinuria type cblG,['OTAR_0000018'],methylmalonic aciduri; homocystinuri; cblG
+EFO_0003758,autism,"['MONDO_0002025', 'EFO_0000618']",autis; ASD
+Orphanet_253,Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia,"['OTAR_0000006', 'OTAR_0000018']",spondyloepiphyseal dysplasi; spondyloepimetaphys dysplasi
+MONDO_0007639,fundus albipunctatus,"['MONDO_0002025', 'OTAR_0000018', 'MONDO_0024458', 'EFO_0000618']",fundus albipunctat; albipunctat
+MONDO_0011719,gastrointestinal stromal tumor,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0010282']",gastrointestinal stromal tumor; GIST
+EFO_0002618,pancreatic carcinoma,"['MONDO_0045024', 'EFO_0001379', 'EFO_0009605', 'EFO_0010282']",pancrea carcinom
+Orphanet_79062,Disorder of amino acid and other organic acid metabolism,"['OTAR_0000018', 'OTAR_0000020']",amino acid organic acid metabolism disorder; organic acid metabolism; amino acid metabolism
+EFO_0005579,pseudohermaphroditism,"['OTAR_0000017', 'OTAR_0000018', 'EFO_0001379']",pseudohermaphrodit
+Orphanet_79282,"Methylmalonic acidemia with homocystinuria, type cblC","['OTAR_0000020', 'MONDO_0024458', 'EFO_0005803', 'OTAR_0000018']",methylmalonic acidemi; homocystinuri; cblC
+MONDO_0019200,retinitis pigmentosa,"['MONDO_0002025', 'OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458', 'EFO_0000618']",retinitis pigmentos; RP
+Orphanet_758,Pseudoxanthoma elasticum,"['OTAR_0000006', 'EFO_0009690', 'MONDO_0024458', 'EFO_0000319', 'OTAR_0000018', 'EFO_0010285']",pseudoxanthoma elasticum; PXE
+EFO_0007318,hyperinsulinemic hypoglycemia,"['OTAR_0000018', 'EFO_0001379', 'OTAR_0000020']",hyperinsulinem hypoglycem
+MONDO_0010180,autosomal recessive spondylocostal dysostosis,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",autosomal recessiv; spondylocostal dysostosis; AR
+MONDO_0009928,pulmonary alveolar microlithiasis,"['OTAR_0000018', 'OTAR_0000010']",pulmonary alveolar microlithiasi
+MONDO_0019350,hereditary spherocytosis,"['OTAR_0000018', 'EFO_0005803']",spherocytosi
+Orphanet_263297,Glycogen storage disease due to glycogenin deficiency,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",glycogen storage disease; glycogenin deficiency
+MONDO_0010674,mucopolysaccharidosis type 2,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",mucopolysaccharidosi type 2; MPS II; Hunter; MPS II; MPS-2; MPS 2; mucopolysaccharidosis II; mucopolysaccharidosis type II; mucopolysaccharidosis type 2; MPS type II; MPS type 2
+EFO_0005539,adrenal gland disease,['EFO_0001379'],adrenal gland disease; adrenal disease
+MONDO_0011426,aceruloplasminemia,"['MONDO_0002025', 'OTAR_0000020', 'MONDO_0024458', 'EFO_0000618', 'EFO_0005803', 'OTAR_0000018']",aceruloplasminemi
+EFO_0003865,kidney neoplasm,"['EFO_0009690', 'MONDO_0045024']",kidney neoplasm; renal neoplasm; kidney tumor; renal tumor
+HP_0002905,Hyperphosphatemia,['EFO_0000651'],hyperphosphatemi
+MONDO_0019796,acrocephalosyndactyly,"['OTAR_0000006', 'OTAR_0000018']",acrocephalosyndactyl
+Orphanet_88618,Psychomotor retardation due to S-adenosylhomocysteine hydrolase deficiency,"['OTAR_0000018', 'OTAR_0000020']",S-adenosylhomocysteine hydrolase deficiency; psychomotor retardation
+EFO_0005774,brain disease,['EFO_0000618'],brain disease
+Orphanet_93298,Achondrogenesis type 1B,"['OTAR_0000006', 'OTAR_0000018']",achondrogenesi type 1B
+EFO_0004190,open-angle glaucoma,['MONDO_0024458'],open-angle glaucoma; open angle glaucoma; OAG; open angle glaucoma; POAG
+MONDO_0010726,Rett syndrome,"['MONDO_0002025', 'OTAR_0000018', 'EFO_0000618']",Rett
+MONDO_0100096,COVID-19,['EFO_0005741'],COVID-19; COVID19; coronavirus; SARS-CoV-2; nCoV-2019; 2019-nCoV
+HP_0000202,Orofacial cleft,['EFO_0000651'],orofacial
+MONDO_0018116,galactosemia,"['OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458']",galactosemi
+MONDO_0011035,neurofibromatosis-Noonan syndrome,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0000618']",Noonan; neurofibromatosis; NFNS
+MONDO_0001586,mucopolysaccharidosis type 1,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458']","mucopolysaccharidosi type 1; MPS I; Hurler; MPS-I; MPS1, MPS-1"
+EFO_0009469,Bartholin gland disease,['OTAR_0000017'],Bartholin
+MONDO_0010013,schneckenbecken dysplasia,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",schneckenbecken
+MONDO_0010602,hemophilia A,"['OTAR_0000018', 'EFO_0005803']",hemophilia A; hemophiliaA
+Orphanet_552,MODY,"['OTAR_0000018', 'EFO_0001379', 'EFO_0009605', 'OTAR_0000020', 'EFO_0010282']",MODY; maturity-onset diabetes; maturity onset diabetes; diabetes of  young; diabetes of the young
+MONDO_0009661,mucopolysaccharidosis type 6,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458']",MPS VI; MPS-6; mucopolysaccharidosis type VI; mucopolysaccharidosis VI; Maroteaux-Lamy syndrome
+MONDO_0009249,hereditary fructose intolerance,"['OTAR_0000018', 'OTAR_0000020']",hereditary fructose intoler; HFI; fructose intolerance
+MONDO_0009061,cystic fibrosis,"['OTAR_0000018', 'OTAR_0000010']",cystic fibrosis; CF; mucoviscidosis
+MONDO_0005129,cataract,"['OTAR_0000018', 'MONDO_0024458']",cataract
+EFO_0004283,goiter,['EFO_0001379'],goiter; goitre
+EFO_0005593,tetanus,"['EFO_0005741', 'EFO_0000618']",tetanus; lockjaw
+EFO_1000063,lactose intolerance adult type,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0010282']",lactose intolerance; lactase deficiency
+MONDO_0008818,arterial tortuosity syndrome,"['OTAR_0000006', 'OTAR_0000018', 'MONDO_0024458', 'EFO_0010285', 'EFO_0000319']",arterial tortuosity; ATS
+EFO_0000198,myelodysplastic syndrome,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0005803']",myelodysplastic; MDS; preleukemia
+MONDO_0019280,hypertrichosis,['EFO_0010285'],hypertrichos
+MONDO_0002412,disorder of glycogen metabolism,"['OTAR_0000018', 'OTAR_0000020']",glycogen metabol
+Orphanet_365,Glycogen storage disease due to acid maltase deficiency,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'EFO_0000319']",GSD; Pompe; acid maltase
+MONDO_0009662,mucopolysaccharidosis type 7,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",MPS VII; MPS-7; mucopolysaccharidosis type VII; Sly
+EFO_0005590,steroid inherited metabolic disorder,"['OTAR_0000018', 'OTAR_0000020']",steroid inherited; steroid metabolic
+EFO_0007328,influenza,"['EFO_0005741', 'OTAR_0000010']",influenza; flu
+MONDO_0019942,distal arthrogryposis,"['OTAR_0000006', 'OTAR_0000018']",distal arthrogrypos
+MONDO_0009020,macular corneal dystrophy,"['MONDO_0002025', 'OTAR_0000018', 'MONDO_0024458', 'EFO_0000618']",macular corneal dystrophy; MCD
+EFO_0000182,hepatocellular carcinoma,"['MONDO_0045024', 'EFO_0001379', 'EFO_0010282']",hepatocellular carcinoma; HCC; liver cell carcinoma
+EFO_0001075,ovarian carcinoma,"['OTAR_0000017', 'MONDO_0045024', 'EFO_0001379']",ovarian carcinoma; ovarian cancer
+EFO_0000181,head and neck squamous cell carcinoma,['MONDO_0045024'],head and neck squamous cell carcinoma; HNSCC; head and neck SCC
+MONDO_0009044,Crigler-Najjar syndrome,"['OTAR_0000018', 'OTAR_0000020']",Crigler-Najjar; C-N syndrome; hyperbilirubinemia type I
+MONDO_0009904,Gitelman syndrome,"['OTAR_0000018', 'EFO_0009690']",Gitelman
+MONDO_0009026,Costello syndrome,"['OTAR_0000006', 'OTAR_0000018', 'EFO_0000319']",Costello
+MONDO_0021004,brachydactyly,"['OTAR_0000006', 'OTAR_0000018']",brachydact
+MONDO_0016391,neonatal diabetes mellitus,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0000540', 'EFO_0001379', 'EFO_0009605', 'EFO_0010282']",neonatal diabetes; NDM
+EFO_0005571,osteochondrodysplasia,['OTAR_0000006'],osteochondrodysplas
+EFO_0002918,rhabdomyosarcoma,"['OTAR_0000006', 'MONDO_0045024']",rhabdomyosarcom; RMS
+Orphanet_503,Autosomal dominant Larsen syndrome,"['OTAR_0000006', 'OTAR_0000018']",Larsen
+EFO_0004198,skin neoplasm,"['MONDO_0045024', 'EFO_0010285']",skin neoplasm; cutaneous neoplasm; skin tumor; skin tumour
+EFO_0001378,multiple myeloma,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0000540', 'EFO_0005803']",multiple myeloma
+EFO_1000640,basal ganglia cerebrovascular disease,"['EFO_0000618', 'EFO_0000319']",basal ganglia cerebrovascular
+EFO_0000339,chronic myelogenous leukemia,"['OTAR_0000006', 'EFO_0005803', 'OTAR_0000018', 'MONDO_0045024', 'EFO_0000540']",chronic myelogenous leukemia; chronic myeloid leukemia; CML; chronic granulocytic leukemia
+EFO_0005542,botulism,['EFO_0005741'],botulism
+EFO_0001071,lung carcinoma,"['OTAR_0000010', 'MONDO_0045024']",lung carcinoma; lung cancer; bronchogenic carcinoma
+HP_0001249,Intellectual disability,['EFO_0000651'],intellectual disability
+MONDO_0019623,hereditary angioedema,"['OTAR_0000018', 'EFO_0010285', 'EFO_0000319']",hereditary angioedema; HAE; C1 inhibitor deficiency
+MONDO_0017720,GM2 gangliosidosis,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0000618']",GM2 gangliosidosis; GM2; Tay-Sachs
+MONDO_0018149,GM1 gangliosidosis,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458']",GM1 gangliosidosis; GM1; Morquio B
+EFO_1002003,hypersensitivity reaction disease,['EFO_0000540'],hypersensitiv
+EFO_0000764,HIV infection,"['OTAR_0000017', 'EFO_0005741']",HIV infection; human immunodeficiency virus infection; HIV
+MONDO_0005041,glaucoma,['MONDO_0024458'],glaucoma
+MONDO_0008783,Tangier disease,"['OTAR_0000018', 'OTAR_0000020']",Tangier
+MONDO_0018997,Noonan syndrome,"['OTAR_0000006', 'EFO_0005803', 'EFO_0000319', 'OTAR_0000018', 'EFO_0000540']",Noonan
+EFO_1000642,hemochromatosis,['OTAR_0000020'],hemochromatosis; haemochromatosis; HHC
+MONDO_0009380,Dubin-Johnson syndrome,"['OTAR_0000018', 'OTAR_0000020']",Dubin-Johnson
+MONDO_0015231,Bartter syndrome,"['OTAR_0000018', 'EFO_0009690']",Bartter
+MONDO_0018479,congenital adrenal hyperplasia,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0001379']",congenital adrenal hyperplasia; CAH
+MONDO_0009067,cystinuria,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0009690']",cystinur
+EFO_0004230,endometrial neoplasm,"['OTAR_0000017', 'MONDO_0045024']",endometrial neoplasm; endometrial cancer
+EFO_0000677,mental or behavioural disorder,"['MONDO_0002025', 'EFO_0000618']",mental; behavioural
+EFO_0005772,neurodegenerative disease,['EFO_0000618'],neurodegenerat
+MONDO_0008948,cerebrotendinous xanthomatosis,"['MONDO_0002025', 'MONDO_0024458', 'OTAR_0000018', 'OTAR_0000020', 'EFO_0000618', 'EFO_0010285']",cerebrotendinous xanthomatosis; CTX
+Orphanet_79161,Disorder of carbohydrate metabolism,"['OTAR_0000018', 'OTAR_0000020']",carbohydrate metabolism
+Orphanet_602,"Distal myopathy, Nonaka type","['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",Nonaka
+EFO_0005207,congenital heart disease,"['OTAR_0000018', 'EFO_0000319']",congenital heart; CHD
+HP_0005208,Secretory diarrhea,['EFO_0000651'],secretory diarrhea; secretory diarrhoea
+EFO_0004244,interstitial lung disease,['OTAR_0000010'],interstitial lung disease; ILD
+MONDO_0015286,congenital disorder of glycosylation,"['OTAR_0000018', 'OTAR_0000020']",congenital disorder of glycosylation; CDG
+Orphanet_777,X-linked non-syndromic intellectual disability,['OTAR_0000018'],X-linked non-syndromic intellectual disability; X-linked NS ID
+MONDO_0020066,Ehlers-Danlos syndrome,['OTAR_0000018'],Ehlers-Danlos; EDS
+EFO_0004253,nephrolithiasis,['EFO_0009690'],nephrolithias; kidney stones
+EFO_0000365,colorectal adenocarcinoma,"['MONDO_0045024', 'EFO_0010282']",colorectal adenocarcinoma; CRC; colon adenocarcinoma
+MONDO_0004992,cancer,['MONDO_0045024'],cancer; neoplasm; neoplasia
+EFO_0002916,esophageal carcinoma,"['MONDO_0045024', 'EFO_0010282']",esophageal carcinoma; esophageal cancer; oesophageal carcinoma; oesophageal cancer
+Orphanet_590,Congenital myasthenic syndromes,"['OTAR_0000006', 'OTAR_0000018', 'MONDO_0024458']",congenital myasthenic; CMS
+Orphanet_309816,Disorder of bilirubin metabolism and excretion,"['OTAR_0000018', 'OTAR_0000020']",bilirubin
+MONDO_0019950,congenital muscular dystrophy,"['OTAR_0000006', 'OTAR_0000018', 'EFO_0000618']",congenital muscular dystrophy; CMD
+MONDO_0019587,autosomal dominant nonsyndromic hearing loss,"['MONDO_0002025', 'OTAR_0000018', 'EFO_0000618']",autosomal dominant nonsyndromic hearing loss; ADNSHL
+EFO_0005046,cutaneous Leishmaniasis,"['EFO_0005741', 'EFO_0010285']",cutaneous Leishmaniasis
+EFO_0005545,congenital disorder of glycosylation type I,"['OTAR_0000018', 'OTAR_0000020']",congenital disorder of glycosylation type I; CDG I
+MONDO_0004737,homocystinuria,"['OTAR_0000018', 'OTAR_0000020']",homocystinuria; homocysto
+Orphanet_309005,Disorder of lipid metabolism,"['OTAR_0000018', 'OTAR_0000020']",lipid metabolism
+EFO_1000060,intestinal disaccharide deficiency and disaccharide malabsorption,"['OTAR_0000020', 'EFO_0010282']",intestinal disaccharide deficiency; disaccharide malabsorption
+MONDO_0015358,hereditary motor and sensory neuropathy,"['OTAR_0000018', 'EFO_0000618']",hereditary motor and sensory neuropathy; HMSN
+MONDO_0018612,congenital hypothyroidism,['EFO_0001379'],congenital hypothyroidism
+MONDO_0003778,inborn error of immunity,"['OTAR_0000018', 'EFO_0000540']",inborn error of immunity; primary immunodeficiency
+MONDO_0018542,severe congenital neutropenia,"['OTAR_0000018', 'EFO_0000540', 'EFO_0005803']",severe congenital neutropenia; SCN
+MONDO_0009255,galactokinase deficiency,"['OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458']",galactokinase deficiency; GALK deficiency
+HP_0000407,Sensorineural hearing impairment,['EFO_0000651'],sensorineural hearing impairment; SNHI
+MONDO_0015650,epilepsy syndrome,['EFO_0000618'],epilepsy
+MONDO_0009292,glycogen storage disease due to glycogen branching enzyme deficiency,"['OTAR_0000018', 'OTAR_0000020']",GSD branching enzyme deficiency; Andersen; branching enzyme
+EFO_0003897,stomach neoplasm,"['MONDO_0045024', 'EFO_0010282']",stomach neoplasm; gastric neoplasm; stomach cancer; gastric cancer
+Orphanet_43,X-linked adrenoleukodystrophy,"['OTAR_0000017', 'OTAR_0000018', 'OTAR_0000020', 'EFO_0001379', 'EFO_0000618']",X-linked adrenoleukodystrophy; X-ALD
+EFO_0005596,vitamin metabolic disorder,"['OTAR_0000018', 'OTAR_0000020']",vitamin metabol
+EFO_0003839,retinopathy,"['EFO_0000618', 'MONDO_0024458']",retinopat
+Orphanet_88629,Tritanopia,"['OTAR_0000018', 'MONDO_0024458']",tritanop
+EFO_0004799,cholelithiasis,"['OTAR_0000018', 'EFO_0009690', 'EFO_0010282']",cholelithias; gallston
+MONDO_0019107,Rh deficiency syndrome,"['OTAR_0000018', 'EFO_0005803']",Rh deficiency syndrome
+MONDO_0009324,Hartnup disease,"['OTAR_0000018', 'OTAR_0000020']",Hartnup; aminoaciduria
+EFO_0000756,melanoma,['MONDO_0045024'],melanom
+EFO_0001068,malaria,"['EFO_0001379', 'EFO_0005741', 'EFO_0005803', 'EFO_0010282']",malaria; Plasmodium
+Orphanet_364,Glycogen storage disease due to glucose-6-phosphatase deficiency,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0009690', 'EFO_0010282']",GSD glucose-6-phosphatase deficiency; GSD I; von Gierke disease
+MONDO_0016620,primary hypertrophic osteoarthropathy,['OTAR_0000018'],primary hypertrophic osteoarthropathy; PHO; pachydermoperiostosis
+EFO_0005583,rickets,['OTAR_0000006'],rickets; osteomalac
+EFO_0000305,breast carcinoma,"['OTAR_0000017', 'MONDO_0045024', 'EFO_0010285']",breast carcinoma; breast cancer
+MONDO_0010604,hemophilia B,"['OTAR_0000018', 'EFO_0005803']",hemophilia B; factor IX deficiency; hemophili B
+EFO_1000647,renal tubular transport disease,['EFO_0009690'],renal tubular transport disease; renal tubular disorder
+MONDO_0015974,severe combined immunodeficiency,"['OTAR_0000018', 'EFO_0000540']",severe combined immunodeficiency; SCID
+EFO_0000222,acute myeloid leukemia,"['OTAR_0000006', 'EFO_0005803', 'MONDO_0045024', 'EFO_0000540']",acute myeloid leukemia; AML; acute myelogenous leukemia
+EFO_0009118,female reproductive endometrioid cancer,"['OTAR_0000017', 'MONDO_0045024']",endometrioid cancer; female reproductive endometrioid cancer
+EFO_0000313,carcinoma,['MONDO_0045024'],carcinoma
+EFO_0003914,atherosclerosis,['EFO_0000319'],atherosclerosis; arteriosclerosis
+MONDO_0018076,tuberculosis,['EFO_0005741'],tuberculosis
+MONDO_0004975,Alzheimer disease,"['MONDO_0002025', 'EFO_0000618']",Alzheim; AD
+MONDO_0018054,familial atrial fibrillation,"['OTAR_0000018', 'EFO_0000319']",familial atrial fibrillation; FAF
+Orphanet_654,Nephroblastoma,"['OTAR_0000018', 'EFO_0009690', 'MONDO_0045024']",nephroblastoma; Wilms; Wilms’
+EFO_0005549,diphtheria,['EFO_0005741'],diphther
+EFO_0009606,macular degeneration,"['EFO_0000618', 'MONDO_0024458']",macular degeneration; age-related macular degeneration; AMD
+EFO_0000565,leukemia,"['MONDO_0045024', 'EFO_0005803']",leukem
+EFO_0005541,bone development disease,['OTAR_0000006'],bone development disease
+Orphanet_30925,Hereditary central diabetes insipidus,"['OTAR_0000018', 'EFO_0001379']",hereditary central diabetes insipidus; HCDI; familial neurohypophyseal diabetes insipidus
+Orphanet_79311,Vitamin B12-responsive methylmalonic acidemia type cblB,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0009690']",cblB; methylmalonic acidemia type cblB; B12-responsive methylmalonic acidemia
+MONDO_0018938,mucopolysaccharidosis type 4,"['OTAR_0000018', 'OTAR_0000020']",MPS IV; MPS-4; mucopolysaccharidosis type IV; mucopolysaccharidosis IV; Morquio syndrome
+MONDO_0010765,"46,XY complete gonadal dysgenesis","['OTAR_0000006', 'OTAR_0000017', 'OTAR_0000018', 'EFO_0001379', 'EFO_0000319']","46,XY complete gonadal dysgenesis; complete gonadal dysgenesis"
+MONDO_0015280,cardiofaciocutaneous syndrome,"['OTAR_0000006', 'OTAR_0000018', 'EFO_0010285', 'EFO_0000319']",cardiofaciocutaneous syndrome; CFC syndrome
+EFO_1000456,Parathyroid Gland Carcinoma,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0001379']",Parathyroid carcinoma; parathyroid gland carcinoma
+Orphanet_158,Systemic primary carnitine deficiency,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'EFO_0000319']",systemic primary carnitine deficiency; primary carnitine deficiency; PCD
+MONDO_0018282,qualitative or quantitative defects of alpha-dystroglycan,['EFO_0000618'],alpha-dystroglycan defect; dystroglycanopathy
+MONDO_0018910,oculocutaneous albinism,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0010285']",oculocutaneous albinism; OCA
+EFO_0005741,infectious disease,['EFO_0005741'],infectious disease; infection
+EFO_0000508,genetic disorder,['OTAR_0000018'],genetic disorder; hereditary disorder
+EFO_0000768,idiopathic pulmonary fibrosis,"['OTAR_0000010', 'MONDO_0045024']",idiopathic pulmonary fibrosis; IPF
+EFO_0005569,microphthalmia,['MONDO_0024458'],microphthalm
+EFO_0003060,non-small cell lung carcinoma,"['OTAR_0000010', 'MONDO_0045024']",non-small cell lung carcinoma; NSCLC
+MONDO_0018937,mucopolysaccharidosis type 3,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020']",MPS III; MPS-3; mucopolysaccharidosis type III; Sanfilippo syndrome
+EFO_0005546,congenital disorder of glycosylation type II,"['OTAR_0000018', 'OTAR_0000020']",CDG type II; congenital disorder of glycosylation type II
+Orphanet_79283,"Methylmalonic acidemia with homocystinuria, type cblD","['OTAR_0000018', 'OTAR_0000020', 'EFO_0005803']",cblD; methylmalonic acidemia type cblD; homocystinuria type cblD
+MONDO_0009861,phenylketonuria,"['OTAR_0000018', 'OTAR_0000020']",phenylketonuria; PKU
+Orphanet_733,Familial adenomatous polyposis,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0010282']",familial adenomatous polyposis; FAP
+EFO_0004272,anemia (phenotype),['EFO_0000651'],anemia; anaemia
+MONDO_0019052,inborn errors of metabolism,"['OTAR_0000018', 'OTAR_0000020']",inborn errors of metabolism; IEM
+MONDO_0010028,sialuria,"['OTAR_0000018', 'OTAR_0000020']",sialuria
+EFO_0005595,toxic encephalopathy,"['EFO_0000618', 'OTAR_0000009']",toxic encephalopathy
+MONDO_0016296,holoprosencephaly,"['OTAR_0000018', 'EFO_0001379', 'EFO_0000618']",holoprosencephaly
+EFO_0000763,viral disease,['EFO_0005741'],viral
+EFO_0005568,methylmalonic aciduria and homocystinuria type cblE,['OTAR_0000018'],cblE; methylmalonic aciduria type cblE; homocystinuria type cblE
+EFO_0009315,thrombophilia,['EFO_0005803'],thrombophil
+MONDO_0019249,mucopolysaccharidosis,"['OTAR_0000018', 'OTAR_0000020']",mucopolysaccharidosis; MPS
+MONDO_0020366,congenital glaucoma,"['OTAR_0000018', 'MONDO_0024458']",congenital glaucoma
+EFO_0005558,hemolytic anemia,"['EFO_0000651', 'EFO_0005803']",hemolytic anemia; haemolytic anaemia
+MONDO_0015469,craniosynostosis,"['OTAR_0000006', 'OTAR_0000018']",craniosynostosis
+EFO_1000638,Isaacs syndrome,['EFO_0000618'],Isaacs syndrome; neuromyotonia
+HP_0001952,Glucose intolerance,['EFO_0000651'],glucose intolerance
+EFO_0005560,hereditary multiple exostoses,['OTAR_0000006'],hereditary multiple exostoses; HME
+MONDO_0008713,acrodermatitis enteropathica,"['OTAR_0000018', 'OTAR_0000020']",acrodermatitis enteropathica
+Orphanet_89936,X-linked hypophosphatemia,"['OTAR_0000006', 'OTAR_0000018', 'OTAR_0000020', 'EFO_0009690', 'EFO_0001379']",X-linked hypophosphatemia; XLH
+Orphanet_35858,Gr√§sbeck-Imerslund disease,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0009690', 'EFO_0005803', 'EFO_0010282']",Gräsbeck; Imerslund; Imerslund; Gräsbeck
+MONDO_0016293,congenital stationary night blindness,"['MONDO_0002025', 'OTAR_0000018', 'MONDO_0024458', 'EFO_0000618']",congenital stationary night blindness; CSNB
+HP_0100727,Histiocytosis,['EFO_0000651'],histiocytos
+Orphanet_68366,Lysosomal disease,"['OTAR_0000018', 'OTAR_0000020']",lysosomal disease; lysosomal storage disease
+EFO_1000639,acquired metabolic disease,['OTAR_0000020'],acquired metabolic disease
+MONDO_0017290,familial intrahepatic cholestasis,"['OTAR_0000018', 'OTAR_0000020', 'EFO_0001379', 'EFO_0010282']",familial intrahepatic cholestasis; FIC
+EFO_0001073,obesity,['OTAR_0000020'],obesity
+EFO_0004260,bone disease,['OTAR_0000006'],bone disease
+HP_0002148,Hypophosphatemia,['EFO_0000651'],hypophosphatemia
+EFO_1000646,papillary carcinoma,['MONDO_0045024'],papillary carcinoma
+MONDO_0019438,AL amyloidosis,"['OTAR_0000006', 'OTAR_0000020', 'EFO_0000618', 'EFO_0000319']",AL amyloidosis; light-chain amyloidosis
+EFO_1001463,gastroenteritis,['EFO_0010282'],gastroenteritis
+EFO_0000220,acute lymphoblastic leukemia,"['OTAR_0000018', 'MONDO_0045024', 'EFO_0005803']",acute lymphoblastic leukemia; ALL
+EFO_0000538,hypertrophic cardiomyopathy,"['OTAR_0000006', 'EFO_0000319']",hypertrophic cardiomyopathy; HCM
+EFO_0005548,developmental disorder of mental health,"['MONDO_0002025', 'EFO_0000618']",developmental disorder of mental health
+HP_0003072,Hypercalcemia,['EFO_0000651'],hypercalcemia
+EFO_0000407,dilated cardiomyopathy,"['OTAR_0000006', 'EFO_0000319']",dilated cardiomyopathy; DCM
+EFO_0007347,listeriosis,['EFO_0005741'],listeriosis
+MONDO_0019507,amelogenesis imperfecta,"['OTAR_0000006', 'OTAR_0000018', 'EFO_0010282']",amelogenesis imperfecta
+EFO_1000644,newborn respiratory distress syndrome,"['OTAR_0000014', 'OTAR_0000010']",newborn respiratory distress syndrome; NRDS; neonatal RDS
+MONDO_0019064,hereditary spastic paraplegia,"['OTAR_0000018', 'EFO_0000618']",hereditary spastic paraplegia; HSP
+EFO_0000778,anthrax infection,['EFO_0005741'],anthrax infection; inhalational anthrax
+EFO_1000643,infantile epileptic encephalopathy,['EFO_0000618'],infantile epileptic encephalopathy
+HP_0006517,Intraalveolar phospholipid accumulation,['EFO_0000651'],intraalveolar phospholipid accumulation; pulmonary alveolar proteinosis
+HP_0004840,Hypochromic microcytic anemia,['EFO_0000651'],hypochromic microcytic anemia
+EFO_0000694,severe acute respiratory syndrome,"['EFO_0005741', 'OTAR_0000010']",severe acute respiratory syndrome; SARS
+MONDO_0009856,Peters plus syndrome,"['OTAR_0000018', 'OTAR_0000020', 'MONDO_0024458', 'EFO_0000319']",Peters
+EFO_0000519,glioblastoma multiforme,"['MONDO_0045024', 'EFO_0000618']",glioblastoma multiforme; GBM
